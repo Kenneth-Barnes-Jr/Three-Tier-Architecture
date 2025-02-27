@@ -1,6 +1,4 @@
-#Three-Tier-Architecture
----
-#🏗️This project is currently in progress
+# Three-Tier-Architecture | 🏗️This project is currently in progress!
 ---
 ## **Project Structure**
 ```bash
