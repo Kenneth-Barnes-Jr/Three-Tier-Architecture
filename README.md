@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Three-Tier-Architecture | 🏗️This project is currently in progress!
 ---
 ## **Project Structure**
@@ -25,3 +26,7 @@ Three-Tier-Architecture/
 │── providers.tf               # AWS provider and authentication
 └── README.md                  # Documentation
 ```
+=======
+# Three-Tier-Architecture
+🏗️This repository host all of my Terraform projects.
+>>>>>>> 26d40810c02eb637987f36b4f127a49f6cfd88ad
